@@ -1,0 +1,2 @@
+# cromagnacoin
+Cromagna Coin
